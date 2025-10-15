@@ -10,5 +10,5 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({ ArrayMeanMethodDeclarationTest.class, ArrayMeanPreliminaryTest.class,
 		ArrayMeanComprehensiveTest.class })
 public class ArrayMeanTestSuite {
-
+	
 }
